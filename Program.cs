@@ -150,7 +150,7 @@ namespace nodelist
         {
             //nodes count for test
             DateTime start = DateTime.Now;
-            int length = 5000;
+            int length = 7;
 
             //first node
             ListNode head = new ListNode();
